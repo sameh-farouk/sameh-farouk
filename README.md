@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on my **Go**, **Design patterns** and **algorithms** skills
 
-- ❤️ I love **coding+learning+watchingMovies**
+- ❤️ I love **coding & reading & watchingHollywoodMovies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
