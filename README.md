@@ -7,7 +7,7 @@
 
 - 💡 I love to explore **new technologies** and leverage them to solve **real-life problems**
 
-- 🌱 I’m currently working on my **Rust**, **Design patterns** and **algorithms** skills
+- 🌱 I’m currently working on my **Go**, **Design patterns** and **algorithms** skills
 
 - ❤️ I love **coding+learning+watchingMovies**
 
