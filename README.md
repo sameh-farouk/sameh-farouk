@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sameh Abouelsaad</h1>
-<h3 align="center">A former experienced educator and a certified software engineer</h3>
+<h1 align="center">Hi, I'm Sameh Abouelsaad! 👋</h1>
+<h3 align="center">Passionate Software Engineer & Former Experienced Educator</h3>
 
-- 🔭 I'm currently working for <a href="https://threefold.io/" target="blank">Threefold</a> as a **software engineer II**
+- 🔭 I'm currently working for <a href="https://threefold.io/" target="blank">Threefold</a> as a full time **software engineer II**
+
+- 👥 I also **mentoring** learners on their <a href="https://www.udacity.com/" target="blank">Udacity</a> learning journey through **online sessions**
 
 - 🏛 I'm a **passionate learner** who's always willing to learn and work across technologies and domains 
 
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently working on my **Go**, **Design patterns** and **algorithms** skills
 
-- ❤️ I love **coding & reading & watchingHollywoodMovies**
+- ❤️ I love **coding, reading, and watching hollywood movies :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
