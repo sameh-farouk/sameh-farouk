@@ -9,9 +9,9 @@
 
 - 💡 I love to explore **new technologies** and leverage them to solve **real-life problems**
 
-- 🌱 I’m currently working on my **Go**, **Design patterns** and **algorithms** skills
+- 🌱 I’m currently working on my **Rust**, **Substrate** and **web3** skills
 
-- ❤️ I love **coding, reading, and watching hollywood movies :)**
+- ❤️ I love **problem solving, reading, and watching hollywood movies :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
