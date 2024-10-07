@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sameh Abouelsaad! 👋</h1>
 <h3 align="center">Passionate Software Engineer & Former Experienced Educator</h3>
 
-- 🔭 I'm currently working for <a href="https://threefold.io/" target="blank">Threefold</a> as a full time **software engineer II**
+- 🔭 I'm currently working for Codescalers Egypt as a full time **software engineer II**
 
 - 👥 I also **mentoring** learners on their <a href="https://www.udacity.com/" target="blank">Udacity</a> learning journey through **online sessions**
 
