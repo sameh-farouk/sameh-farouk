@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sameh Abouelsaad! 👋</h1>
 <h3 align="center">Passionate Software Engineer & Former Experienced Educator</h3>
 
-- 🔭 I'm currently working for Codescalers Egypt as a full time **software engineer II**
+- 🔭 I'm currently working for Codescalers Egypt as a full time **senior software engineer**
 
 - 👥 I also **mentoring** learners on their <a href="https://www.udacity.com/" target="blank">Udacity</a> learning journey through **online sessions**
 
@@ -9,7 +9,7 @@
 
 - 💡 I love to explore **new technologies** and leverage them to solve **real-life problems**
 
-- 🌱 I’m currently working on my **Rust**, **Substrate** and **web3** skills
+- 🌱 I’m currently working on my **Rust**, **Substrate**, **Sui** and **web3** skills
 
 - ❤️ I love **problem solving, reading, and watching hollywood movies :)**
 
